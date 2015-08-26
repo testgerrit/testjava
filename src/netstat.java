@@ -18,4 +18,4 @@ public class netstat {
 				e.printStackTrace(System.err);
 		}
 	}
-}
+};
